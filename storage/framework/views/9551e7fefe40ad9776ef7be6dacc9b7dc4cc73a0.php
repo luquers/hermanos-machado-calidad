@@ -1,0 +1,1 @@
+<label id="<?php echo e($name); ?>-error" class="error" for="<?php echo e($name); ?>"><?php echo e($errors->first($name)); ?></label><?php /**PATH F:\laragon\www\gestion_de_calidad\resources\views/includes/input-error.blade.php ENDPATH**/ ?>

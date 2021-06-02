@@ -1,0 +1,1 @@
+<label id="{{$name}}-error" class="error" for="{{$name}}">{{$errors->first($name)}}</label>
