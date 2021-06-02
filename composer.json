@@ -8,6 +8,7 @@
     ],
     "license": "MIT",
     "require": {
+        "composer/composer" :  "^1.1",
         "php": "^7.2.5",
         "ext-json": "*",
         "ext-zip": "*",
